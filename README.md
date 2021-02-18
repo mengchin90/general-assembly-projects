@@ -1,3 +1,3 @@
-I am a student in general assembly
+I am a student in General Assembly
 
-This folder content the projects I did during the 12 weeks course
+This folder contains the projects I did as part of the 12-weeks course
